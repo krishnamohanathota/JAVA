@@ -4,4 +4,4 @@
 
 ## Java vs Python
 
-![Java vs Python](images/Java_vs_Python.gif)
+![Java vs Python](images/Java-vs-Python.gif)
